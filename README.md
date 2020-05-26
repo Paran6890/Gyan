@@ -1,2 +1,2 @@
-# Gyan
-Jqury plugins ,html,css
+#Gyan
+Jquery plugins ,html,css
